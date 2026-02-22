@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Я - Барсик.
+
+- 🌱 Я в основном работаю над [BarsikVoxel](https://github.com/barsik0396/BarsikVoxel).
+
+- 🤔 Сейчас я планирую начать создание BarsikVoxel Mobile
+
