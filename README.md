@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🤔 Сейчас я планирую начать создание BarsikVoxel Mobile-->
 
-### Проекты, над кооторыми я работаю
+### Проекты, которые я создаю
 | Проект | Статистика | Коммитов | Сайт(-ы) | Версий
 |-|-|-|-|-|
 | BarsikCMD :star: | 1 :eye:, 0 Forks, 1 :star: | 74 | [GitHub](https://barsik0396.github.io/BarsikCMD) | 1 |
