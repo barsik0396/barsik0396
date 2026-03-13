@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 
 - 🔭 Я - Барсик.
 
-- 🌱 Я в основном работаю над [BarsikVoxel](https://github.com/barsik0396/BarsikVoxel).
+<!--- 🌱 Я в основном работаю над [BarsikVoxel](https://github.com/barsik0396/BarsikVoxel).
 
-- 🤔 Сейчас я планирую начать создание BarsikVoxel Mobile
+- 🤔 Сейчас я планирую начать создание BarsikVoxel Mobile-->
 
+### Проекты, над кооторыми я работаю
+| Проект | Статистика | Коммитов | Сайт(-ы) | Версий
+|-|-|-|-|-|
+| BarsikCMD :star: | 1 :eye:, 0 Forks, 1 :star: | 74 | [GitHub](https://barsik0396.github.io/BarsikCMD) | 1 |
