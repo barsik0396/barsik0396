@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋
 
 <!--
 **barsik0396/barsik0396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,13 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 - 🔭 Я - Барсик.
 
 <!--- 🌱 Я в основном работаю над [BarsikVoxel](https://github.com/barsik0396/BarsikVoxel).
 
-- 🤔 Сейчас я планирую начать создание BarsikVoxel Mobile-->
+- 🤔 Сейчас я планирую начать создание BarsikVoxel Mobile
 
 ### Проекты, которые я создаю
 (пусто)
@@ -28,3 +27,15 @@ Here are some ideas to get you started:
 <!--| BarsikLauncher :star: | ? | ? | ? | ? | https://github.com/barsik0396/BarsikLauncher |
 
 <!--| BarsikCMD :star: | 1 :eye:, 0 Forks, 1 :star: | 74 | [GitHub](https://barsik0396.github.io/BarsikCMD) | 1 |-->
+# Привет, я Барсик 👋
+
+Сижу на Linux Mint, разрабатываю программы для Linux.
+
+## Текущие проекты
+
+- **BarsikIDE** — своя IDE, пока на стадии планирования
+- **BarsikCMD** — старый проект, на данный момент не обновляется
+
+## Контакты
+
+📧 [Barsik0396@outlook.com](mailto:Barsik0396@outlook.com)
