@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <!--| BarsikLauncher :star: | ? | ? | ? | ? | https://github.com/barsik0396/BarsikLauncher |
 
 <!--| BarsikCMD :star: | 1 :eye:, 0 Forks, 1 :star: | 74 | [GitHub](https://barsik0396.github.io/BarsikCMD) | 1 |-->
-# Привет, я Барсик 👋
+<!--# Привет, я Барсик 👋
 
 Сижу на Linux Mint, разрабатываю программы для Linux.
 
@@ -38,4 +38,17 @@ Here are some ideas to get you started:
 
 ## Контакты
 
-📧 [Barsik0396@outlook.com](mailto:Barsik0396@outlook.com)
+📧 [Barsik0396@outlook.com](mailto:Barsik0396@outlook.com)-->
+
+
+# Hello, I am Barsik 👋
+
+I'm using Linux Mint as the default system.
+
+And I'm cat lover 🐱
+
+My projects are:
+- MewDevix (not released): My OS
+- MewDevix-Py: shows how looks MewDevix (contributors welcome)
+- BarsikCMD (archive): My shell
+- barsik-apt (archive): My APT server
