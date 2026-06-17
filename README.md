@@ -49,3 +49,5 @@ And I'm cat lover 🐱
 
 My projects are:
 - [dev-barsik](https://github.com/barsik0396/dev-barsik) - huge CLI-tool
+- [barsik0396.github.io](https://github.com/barsik0396/barsik0396.github.io) - my website [![](https://img.shields.io/badge/website-green)](https://barsik0396.github.io/)
+- [psdev-barsik](https://github.com/barsik0396/psdev-barsik) - apt server for dev-barsik [![](https://img.shields.io/badge/website-green)](https://barsik0396.github.io/psdev-barsik)
