@@ -48,7 +48,4 @@ I'm using Linux Mint as the default system.
 And I'm cat lover 🐱
 
 My projects are:
-- MewDevix (not released): My OS
-- MewDevix-Py: shows how looks MewDevix (contributors welcome)
-- BarsikCMD (archive): My shell
-- barsik-apt (archive): My APT server
+- [dev-barsik](https://github.com/barsik0396/dev-barsik) - huge CLI-tool
