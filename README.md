@@ -1,53 +1,26 @@
-<!--## Hi there 👋
+# hey, i'm barsik 🐱
 
-<!--
-**barsik0396/barsik0396** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-- 🔭 Я - Барсик.
-
-<!--- 🌱 Я в основном работаю над [BarsikVoxel](https://github.com/barsik0396/BarsikVoxel).
-
-- 🤔 Сейчас я планирую начать создание BarsikVoxel Mobile
-
-### Проекты, которые я создаю
-(пусто)
-<!--| Проект | Статистика | Коммитов | Сайт(-ы) | Версий | GitHub |
-|-|-|-|-|-|-|
-<!--| BarsikLauncher :star: | ? | ? | ? | ? | https://github.com/barsik0396/BarsikLauncher |
-
-<!--| BarsikCMD :star: | 1 :eye:, 0 Forks, 1 :star: | 74 | [GitHub](https://barsik0396.github.io/BarsikCMD) | 1 |-->
-<!--# Привет, я Барсик 👋
-
-Сижу на Linux Mint, разрабатываю программы для Linux.
-
-## Текущие проекты
-
-- **BarsikWeb** — свой HTTP
-- **BarsikCMD** — мой лучший проект - своя командная строка.
-
-## Контакты
-
-📧 [Barsik0396@outlook.com](mailto:Barsik0396@outlook.com)-->
+independent dev from riga. building tools i wanted to exist but didn't.
 
 
-# Hello, I am Barsik 👋
+## 🐾 what i'm building
 
-I'm using Linux Mint as the default system.
+| project | what it is |
+|---|---|
+| [**Obje**](https://github.com/barsik0396/obje) | python 3.14 build system with a modern terminal ui |
 
-And I'm cat lover 🐱
 
-My projects are:
-- [dev-barsik](https://github.com/barsik0396/dev-barsik) - huge CLI-tool
-- [barsik0396.github.io](https://github.com/barsik0396/barsik0396.github.io) - my website [![](https://img.shields.io/badge/website-green)](https://barsik0396.github.io/)
-- [psdev-barsik](https://github.com/barsik0396/psdev-barsik) - apt server for dev-barsik [![](https://img.shields.io/badge/website-green)](https://barsik0396.github.io/psdev-barsik)
+## 🛠 stack
+
+`python` `fish` `linux`
+
+
+## 📊 stats
+
+![github stats](https://github-stats-extended.vercel.app/api?username=barsik0396&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
+![top langs](https://github-stats-extended.vercel.app/api/top-langs/?username=barsik0396&layout=compact&theme=dark&hide_border=true)
+
+
+## ☕ support
+
+if you like what i do — send some bitcoin to `bc1q36m7jsm5c7njv4ycklnesgmpssr2d2uxcw5dn7` or just star a repo, that also works 🐱
