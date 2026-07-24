@@ -8,6 +8,7 @@ independent dev from riga. building tools i wanted to exist but didn't.
 | project | what it is |
 |---|---|
 | [**Obje**](https://github.com/barsik0396/obje) | python 3.14 build system with a modern terminal ui |
+| [**shell4**](https://github.com/barsik0396/shell4) | my own shell written in python |
 
 
 ## 🛠 stack
